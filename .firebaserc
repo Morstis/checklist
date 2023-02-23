@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "checklist-wieseit": {
+      "hosting": {
+        "checklist": [
+          "checklist-wieseit"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "checklist-wieseit"
+  }
+}
